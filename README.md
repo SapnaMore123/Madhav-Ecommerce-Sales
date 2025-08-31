@@ -2,7 +2,6 @@
 
 
 > A compact Power BI report that analyzes ecommerce performance across states, categories, sub-categories, customers, and payment modes—with monthly profit trends and interactive slicers.
-
 ---
 
 ## 🚀 Highlights
@@ -44,6 +43,7 @@
 - State  
 
 ---
+![Ecommerce Sales Dashboard](screenshot/screenshot.png)
 
 ## 📊 Key Metrics (DAX)
 
